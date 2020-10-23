@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
          * develop
          * feature1
          * feature2
+         * bugfix
          */
     }
 }
