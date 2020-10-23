@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
          * Line 3
          * develop
          * feature1
+         * feature2
          */
     }
 }
