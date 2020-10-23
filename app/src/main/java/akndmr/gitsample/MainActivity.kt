@@ -18,7 +18,8 @@ class MainActivity : AppCompatActivity() {
          * feature2
          * bugfix
          *
-         * 
+         *
+         * commit 3
          */
     }
 }
