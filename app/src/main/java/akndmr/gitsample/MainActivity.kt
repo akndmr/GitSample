@@ -8,32 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        /**
-         *
-         * Line 1
-         * Line 2 akndmr
-         * Line 3
-         * develop
-         * feature1
-         * feature2
-         * bugfix
-         *
-         *
-         * commit 3
-         * commit 4
-         *
-         * akın
-         */
-
-        /**
-         * A
-         *
-         *
-         *
-         * B
-         * C
-         * D
-         *
-         */
+       
     }
 }
